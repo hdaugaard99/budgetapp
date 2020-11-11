@@ -1,4 +1,5 @@
-{"background_color": "#EDF6FF",
+{
+"background_color": "#EDF6FF",
 
 "description": "This app helps you evaluate your budget and highlights areas of your spending that could be improved.",
 
@@ -16,4 +17,5 @@
 
 "short_name": "Budget Evaluator",
 
-"start_url": "/index.html"}
+"start_url": "/index.html"
+}
