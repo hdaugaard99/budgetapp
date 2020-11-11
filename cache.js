@@ -1,4 +1,4 @@
-if ('serviceWorker' in navigation) {
+if ('serviceWorker' in navigator) {
     window.addEventListener('load', function() {
     navigator.serviceWorker.register('/sw.js').then(function(registration) {
         // Registration successful
